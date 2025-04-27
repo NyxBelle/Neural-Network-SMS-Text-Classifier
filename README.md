@@ -38,5 +38,5 @@ Run it in Google Colab:
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/NyxBelle)**  
+**Made with ❤️ by [NyxBelle](https://github.com/NyxBelle)**  
 This project is part of the freeCodeCamp Machine Learning with Python course.
