@@ -34,7 +34,7 @@ The model demonstrates good accuracy in classifying SMS messages as either "ham"
 ## 🔗 Try It
 
 Run it in Google Colab:  
-[📓 Open Notebook]((https://colab.research.google.com/drive/1Wun_qZYkDwfx5X7ob6djks99Infkd-tJ?usp=sharing))
+[📓 Open Notebook](https://colab.research.google.com/drive/1Wun_qZYkDwfx5X7ob6djks99Infkd-tJ?usp=sharing)
 
 ---
 
